@@ -16,6 +16,8 @@ cask "keypad" do
 
   app "Keypad.app"
 
+  uninstall quit: "io.berkan.keypad"
+
   zap trash: [
     "~/Library/Application Scripts/io.berkan.keypad",
     "~/Library/Containers/io.berkan.keypad",
