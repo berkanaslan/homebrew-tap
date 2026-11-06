@@ -1,6 +1,6 @@
 cask "keypad" do
-  version "0.1.1"
-  sha256 "ec1a426dca9f1108bf81d904f8ec4fcddb95d4037c9d2383d4c4c7593aa383bc"
+  version "0.2.0"
+  sha256 "a7044a81db70ce9e95de36e9a6cb3f04c3ae9c4b12b8ba017b3c3b8ad873b45e"
 
   url "https://github.com/berkanaslan/keypad/releases/download/v#{version}/Keypad-#{version}.dmg"
   name "Keypad"
